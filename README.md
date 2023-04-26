@@ -28,7 +28,8 @@ The testing includes the following scenarios:
 1. This scenario tests the login functionality with an invalid username.
 
 2. This scenario tests the login functionality with an invalid password.
+![image](https://user-images.githubusercontent.com/68651125/234488043-e7003fa1-23d5-4b06-b847-66b1c774e0bf.png)
 
 # Contributions
 
-### If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
+If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
