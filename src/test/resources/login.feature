@@ -9,7 +9,7 @@ Feature: User Login
     | Admin    | admin123 |
     | admin    | admin123 |
 
-  Scenario Outline: User can log in with invalid credentials
+  Scenario Outline: User can log in with invalid credenti als
     Given user goes to the website
     When provides "<username>" and "<password>" then presses submit button
     Then user gets alert
